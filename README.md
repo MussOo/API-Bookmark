@@ -2,6 +2,10 @@
 
     composer install
 
+### initialisation de la bdd et des fixtures
+    
+    composer db
+
 ### démarrage du serveur Symfony 
     
     composer start
